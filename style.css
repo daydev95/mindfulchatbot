@@ -1,6 +1,6 @@
 body {
 	font-family: 'TD Graphik Regular', sans-serif;
-	color: #183028;
+	color: #336D57;
 }
 /*2c3e50*/
 a {
@@ -10,7 +10,7 @@ a {
 /*	FORMS
 */
 .form-control {
-	border: 2px solid #cbd0d3;
+	border: 2px solid #336D57;
 	border-radius: 0;
 	padding: 0 25px;
 	line-height: 45px;
@@ -95,7 +95,7 @@ a {
 	background-color: #f6f8f9;
 }
 .background-dark {
-	background-color: #183028;
+	background-color: #336D57;
 }
 .background-primary {
 	background-color: #1abc9c;
@@ -148,33 +148,33 @@ a {
 }
 
 .btn-default {
-	background-color: #43B02A; /*34495e;*/
+	background-color: #1a372c; /*34495e;*/
 	color: #FFF;
 }
 .btn-default:hover {
-	background-color: #338720;
+	background-color: #1a372c;
 	color: #FFF;
 }
 
 .btn-primary {
-	background-color: #43B02A /*1abc9c*/
+	background-color: #1a372c/*1abc9c*/
 }
 .btn-primary:hover {
-	background-color: #338720
+	background-color: #1a372c
 }
 
 .btn-success {
-	background-color: #43B02A;
+	background-color: #1a372c;
 }
 .btn-success:hover {
-	background-color: #338720;
+	background-color: #1a372c;
 }
 
 .btn-info {
-	background-color: #43B02A;
+	background-color: #1a372c;
 }
 .btn-info:hover {
-	background-color: #338720;
+	background-color: #1a372c;
 }
 
 .btn-warning {
@@ -217,9 +217,9 @@ a {
 	background-color: #bdc3c7;
 }
 .navbar-brand, .navbar-nav>li>a {
-	line-height: 80px;
+	line-height: 100px;
 	font-weight: bold;
-	height: 80px;
+	height: 100px;
 	padding: 0 15px;
 	letter-spacing: -0.025eml
 }
